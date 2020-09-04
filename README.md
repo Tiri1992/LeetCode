@@ -1,4 +1,4 @@
-# Leetcode Solutions
+# Leetcode Solutions: Python
 
 I have created this repo to track leetcode progress and for anyone else who 
 may want the solutions to any of the following problems:
@@ -13,6 +13,6 @@ may want the solutions to any of the following problems:
 - NumberOfRecentCalls:: Leetcode Easy
 - DesignCircularDeque:: Leetcode Medium
 
-### Arrays
+### Arrays
 
 - CheckStraightLine:: Leetcode Easy
