@@ -20,4 +20,4 @@ may want the solutions to any of the following problems:
 
 ### Strings
 
-- BuddyStrings: Leetcode Easy
+- BuddyStrings:: Leetcode Easy
