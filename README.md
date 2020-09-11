@@ -17,3 +17,7 @@ may want the solutions to any of the following problems:
 
 - CheckStraightLine:: Leetcode Easy
 - CellsWithOddValues:: Leetcode Easy
+
+### Strings
+
+- BuddyStrings: Leetcode Easy
