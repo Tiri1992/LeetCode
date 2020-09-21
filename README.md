@@ -22,6 +22,6 @@ may want the solutions to any of the following problems:
 
 - BuddyStrings:: Leetcode Easy
 
-### HashMaps
+### HashMaps
 
 - CountLargestGroup:: Leetcode Easy
