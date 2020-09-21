@@ -21,3 +21,7 @@ may want the solutions to any of the following problems:
 ### Strings
 
 - BuddyStrings:: Leetcode Easy
+
+### HashMaps
+
+- CountLargestGroup:: Leetcode Easy
