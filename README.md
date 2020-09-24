@@ -25,3 +25,7 @@ may want the solutions to any of the following problems:
 ### HashMaps
 
 - CountLargestGroup:: Leetcode Easy
+
+### LinkedLists
+
+- RemoveNthNodeFromEndOfList: Leetcode Medium
