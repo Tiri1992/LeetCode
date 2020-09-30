@@ -13,6 +13,11 @@ may want the solutions to any of the following problems:
 - NumberOfRecentCalls:: Leetcode Easy
 - DesignCircularDeque:: Leetcode Medium
 
+### Sort
+
+- ContainsDup3.py:: Leetcode Medium
+- MinimumSubsequenceInNonIncreasingOrder:: Leetcode Easy
+
 ### Arrays
 
 - CheckStraightLine:: Leetcode Easy
