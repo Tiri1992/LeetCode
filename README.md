@@ -36,6 +36,7 @@ may want the solutions to any of the following problems:
 ### HashMaps
 
 - CountLargestGroup:: Leetcode Easy
+- SubdomainVisitCount:: Leetcode Easy
 
 ### LinkedLists
 
