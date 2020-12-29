@@ -29,6 +29,10 @@ may want the solutions to any of the following problems:
 - BuddyStrings:: Leetcode Easy
 - UniqueEmail:: Leetcode Easy
 
+### Search
+
+- PeakIndexArray:: Leetcode Easy
+
 ### HashMaps
 
 - CountLargestGroup:: Leetcode Easy
