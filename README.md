@@ -6,6 +6,7 @@ may want the solutions to any of the following problems:
 ### Stack
 
 - MakeTheStringGreat:: Leetcode Easy
+- RemoveOutermostParenthesis: Leetcode Easy
 
 
 ### Queue
