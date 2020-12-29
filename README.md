@@ -36,3 +36,7 @@ may want the solutions to any of the following problems:
 ### LinkedLists
 
 - RemoveNthNodeFromEndOfList: Leetcode Medium
+
+### Maths
+
+- ValidPerfectSquare:: Leetcode Easy
