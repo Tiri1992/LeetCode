@@ -22,6 +22,7 @@ may want the solutions to any of the following problems:
 
 - CheckStraightLine:: Leetcode Easy
 - CellsWithOddValues:: Leetcode Easy
+- CreateArrayGivenOrder:: Leetcode Easy
 
 ### Strings
 
