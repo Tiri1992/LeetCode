@@ -5,7 +5,7 @@ Conditions:
 - arr[0] < arr[1] < ... arr[i-1] < arr[i]
 - arr[i] > arr[i+1] > ... > arr[arr.length - 1]
 
-url: https://leetcode.com/problems/sum-of-square-numbers/
+url: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 """
 from typing import List
 
